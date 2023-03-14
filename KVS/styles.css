@@ -1,0 +1,178 @@
+.home {
+width: 100%;
+height: 850px;
+background-image: url("auto-mechanic-scaled.jpg");
+background-position: center;
+background-size: cover;
+}
+h1{
+    font-family: 'Libre Baskerville', serif;
+    position: relative;
+    text-align: center;
+    top: 25%;
+    font-size: 70px;
+    color: #fcffe7;
+    text-decoration: underline;
+}
+.box2 {
+    background-color: rgba(0,0,0,.5);
+    color: #fff;
+    border: 4px solid #fcffe7;
+    border-radius: 28px;
+    width: 300px;
+    height: 250px;
+    left: 10%;
+    top: 50%;
+    position: relative;
+    text-align: center;
+}
+.box2 h3 {
+color: #fcffe7;
+position: relative;
+top: 5%;
+font-family: 'Ubuntu', sans-serif;
+font-weight: 700;
+}
+.tjedan{
+    position: relative;
+    top: 10%;
+    color: #fcffe7;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 700;
+}
+.subota{
+    position: relative;
+    top: 15%;
+    color: #fcffe7;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 700;
+}
+.vikend{
+    position: relative;
+    top: 20%;
+    color: #fcffe7;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 700;
+}
+/* -------------------------------------------------SERVICES!!!!---------------------------------------------------------------------------- */
+.services{
+    background-color: #fcffe7;
+    width: 100%;
+    height: 700px;
+}
+.service-img{
+    border-radius: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 572px;
+    margin-top: 5%;
+}
+.service-img2{
+    
+    border-radius: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 572px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.service-img3{
+    border-radius: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 572px;
+    margin-top: 5%;
+}
+h4{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+    color: #fcffe7;
+    font-size: xx-large;
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.services p{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+    color: #fcffe7;
+    font-size: large;
+    position: absolute;
+    text-align: center;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.carousel-control-next-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='black' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E");
+}
+
+.carousel-control-prev-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='black' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E");
+}
+
+/* ----------------------------------------------------------------CONTACT---------------------------------------------------------------------------------------- */
+
+.contact {
+    width: 100%;
+    height: 500px;
+    background-image: url("Mechanic.jpg");
+    background-position: center;
+    background-size: cover;
+    }
+    .box3 {
+        background-color: rgba(0,0,0,.5);
+        color: #fff;
+        border: 4px solid #fcffe7;
+        border-radius: 28px;
+        width: 300px;
+        height: 300px;
+        left: 10%;
+        top: 30%;
+        position: relative;
+        text-align: center;
+    }
+    .box3 h3 {
+    color: #fcffe7;
+    position: relative;
+    top: 5%;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 700;
+    }
+    .tel{
+        position: relative;
+        top: 10%;
+        color: #fcffe7;
+        font-family: 'Ubuntu', sans-serif;
+        font-weight: 700;
+    }
+    .email{
+        position: relative;
+        top: 15%;
+        color: #fcffe7;
+        font-family: 'Ubuntu', sans-serif;
+        font-weight: 700;
+    }
+    .adresa{
+        position: relative;
+        top: 20%;
+        color: #fcffe7;
+        font-family: 'Ubuntu', sans-serif;
+        font-weight: 700;
+    }
+    p span {
+        display: block;
+      }
+   
+      html,body{
+        overflow-x: hidden;
+    }
